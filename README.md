@@ -36,6 +36,6 @@ cd kafka-demo
 
 - Java 21
 - Spring Boot 3.5.3
-- Apache Kafka
-- Docker & Docker Compose
-- Maven
+- Apache Kafka 3.9.1
+- Docker & Docker Compose  28.2.2
+- Apache Maven 3.9.10
